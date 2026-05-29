@@ -1,6 +1,24 @@
 # Hi, I'm Prerana Kolambkar 👋
 
-## Data Analyst | SQL | Excel | Power BI | Python
+### Aspiring Data Analyst | Data Science Enthusiast
 
-I enjoy transforming raw data into actionable insights through analysis, visualization, and storytelling. My work focuses on data analysis, dashboard development, business intelligence, statistics, and exploratory data analysis.
+I am passionate about analyzing data, uncovering insights, and solving business problems through data-driven decision making.
 
+### Areas of Interest
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Statistical Analysis
+- Data Visualization
+
+### Skills
+SQL | Excel | Python | Tableau | Power BI (Learning)
+Pandas | NumPy | Scikit-learn | Statistics | Machine Learning | Data Visualization | Git/GitHub
+
+### Currently Working On
+- Data Analysis Projects
+- Dashboard Development
+- Machine Learning Projects
+- Power BI
+
+I enjoy transforming raw data into meaningful insights through analytics, visualization, and predictive modeling.
