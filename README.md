@@ -127,9 +127,9 @@ I'm passionate about transforming raw data into meaningful insights that drive b
 
 ##  Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/prerana-k/
-- 💻 GitHub: https://github.com/PreranaKolambkar
-- 📧 Email: preranakolambkar97@gmail.com / prerana262002@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/prerana-k/
+-  GitHub: https://github.com/PreranaKolambkar
+-  Email: preranakolambkar97@gmail.com / prerana262002@gmail.com
 
 ---
 
